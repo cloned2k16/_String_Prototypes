@@ -1,4 +1,4 @@
-var _StringPrototypes   = require("./")
+var _StringPrototypes   = require("./").apply(global)
 ,   test                = require("tape")
 ;
 
