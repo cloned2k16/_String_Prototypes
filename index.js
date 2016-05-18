@@ -4,7 +4,7 @@
 var _String_Prototypes  =   {
                                 Name:       'String Prototypes (aka es6-strings)' 
                             ,   Desc:       'Provides ES5 and ES6 compliant prototype functions, along with helpful others ..'
-                            ,   Version:    '0.0.1'
+                            ,   Version:    '0.0.2'
                         }
                         // 'str.'.repeat        (3)         ->      'str.str.str.'
                         // 'str.'.startsWith    ('st')      ->      true
