@@ -1,0 +1,33 @@
+{
+        "name"              : "string_prototypes"
+    ,   "version"           : "0.0.1"
+    ,   "description"       : "A collection of prototype functions for String object, some of them already adopted by new standards as ES6"
+    ,   "main"              : "index.js"
+    ,   "scripts"           :   {
+                                "test": "tape test.js"
+                            }
+    ,   "repository"        :   {
+                                "type": "git"
+                            ,   "url": "git+https://github.com/cloned2k16/_String_Prototypes.git"
+                            }
+    ,   "keywords":         [
+                                "string"
+                            ,   "prototype"
+                            ,   "ES6"
+                            ,   "startsWith"
+                            ,   "repeat"
+                            ,   "endsWith"
+                            ,   "include"
+                            ,   "codePointAt"
+                            ]
+    ,   "author"            :   "Paolo Lioy"
+    ,   "license"           :   "CC0-1.0"
+    ,   "bugs"              :   {
+                                "url": "https://github.com/cloned2k16/_String_Prototypes/issues"
+                            }
+    ,   "homepage"          :   "https://github.com/cloned2k16/_String_Prototypes#readme"
+    ,   "dependencies"      :   {}
+    ,   "devDependencies"   :   {
+                                    "tape"  :   "~4.5.1"
+                                }
+}
