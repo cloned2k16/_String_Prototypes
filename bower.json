@@ -4,7 +4,6 @@
     ,   "description"       :   "A collection of prototype functions for String object, some of them already adopted by new standards as ES6"
     ,   "main"              :   "index.js"
     ,   "homepage"          :   "https://github.com/cloned2k16/_String_Prototypes#readme"
-                            }
     ,   "keywords"          :   [
                                 "string"
                             ,   "prototype"
