@@ -5,7 +5,7 @@ var _StringPrototypes   = require("./").apply(global)
 test('String Prototipes', function (assert) {
     var s;
     
-    assert.plan(5);
+    assert.plan(9);
   
     assert.strictEquals('123'.repeat(3)             ,   '123123123');
   
@@ -18,4 +18,9 @@ test('String Prototipes', function (assert) {
     assert.strictEquals(s.endsWith      ('to')      ,   true);  
     assert.strictEquals(s.includes      ('----->')  ,   true);  
     
+    s='file.com'
+    assert.strictEquals(s.subStr        (-4)        , '.com'    );  
+    assert.strictEquals(s.subStr        (-3,-1)     , '.'       );  
+    assert.strictEquals(s.subStr        (-4, 1)     , '.'       );  
+    assert.strictEquals(s.subStr        ( 4,-4)     , 'file'    );  
 });

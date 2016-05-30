@@ -1,6 +1,6 @@
 {
         "name"              :   "string_prototypes"
-    ,   "version"           :   "0.0.3"
+    ,   "version"           :   "0.0.4"
     ,   "description"       :   "A collection of prototype functions for String object, some of them already adopted by new standards as ES6"
     ,   "main"              :   "index.js"
     ,   "homepage"          :   "https://github.com/cloned2k16/_String_Prototypes#readme"
@@ -13,6 +13,7 @@
                             ,   "endsWith"
                             ,   "include"
                             ,   "codePointAt"
+                            ,   "subStr"
                             ]
     ,   "author"            :   "Paolo Lioy"
     ,   "license"           :   "CC0-1.0"
