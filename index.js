@@ -88,7 +88,6 @@ _String_Prototypes.apply = function (scope) {
     
  return this;    
 };
-    
-    var module              =   module  ||  {}
-    module.exports      =   _String_Prototypes;
-    
+
+if (typeof module !== 'undefined' && module.exports)  module.exports  = _String_Prototypes;
+
