@@ -16,6 +16,7 @@ try it [HERE](http://cloned2k16.github.io/_String_Prototypes/)
 [![Dependency Status](https://david-dm.org/cloned2k16/_String_Prototypes.svg)](https://david-dm.org/cloned2k16/_String_Prototypes)
 [![devDependency Status](https://david-dm.org/cloned2k16/_String_Prototypes/dev-status.svg)](https://david-dm.org/cloned2k16/_String_Prototypes/dev-status)
 
+[![Build Status](https://travis-ci.org/cloned2k16/_String_Prototypes.svg?branch=master)](https://travis-ci.org/cloned2k16/_String_Prototypes)
+
 [![string_prototypes](https://nodei.co/npm/string_prototypes.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/string_prototypes)
 
-[![Build Status](https://travis-ci.org/cloned2k16/_String_Prototypes.svg?branch=master)](https://travis-ci.org/cloned2k16/_String_Prototypes)
