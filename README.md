@@ -18,5 +18,4 @@ try it [HERE](http://cloned2k16.github.io/_String_Prototypes/)
 
 [![Build Status](https://travis-ci.org/cloned2k16/_String_Prototypes.svg?branch=master)](https://travis-ci.org/cloned2k16/_String_Prototypes)
 
-[![string_prototypes](https://nodei.co/npm/string_prototypes.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/string_prototypes)
 
