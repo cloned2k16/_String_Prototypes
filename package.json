@@ -1,6 +1,6 @@
 {
         "name"              : "string_prototypes"
-    ,   "version"           : "0.0.4"
+    ,   "version"           : "0.0.5"
     ,   "description"       : "A collection of prototype functions for String object, some of them already adopted by new standards as ES6"
     ,   "main"              : "index.js"
     ,   "scripts"           :   {
@@ -29,6 +29,6 @@
     ,   "homepage"          :   "https://github.com/cloned2k16/_String_Prototypes#readme"
     ,   "dependencies"      :   {}
     ,   "devDependencies"   :   {
-                                    "tape"  :   "~4.5.1"
+                                    "tape"  :   ""
                                 }
 }
