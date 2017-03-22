@@ -1,6 +1,6 @@
 {
         "name"              : "string_prototypes"
-    ,   "version"           : "0.0.5"
+    ,   "version"           : "0.0.6"
     ,   "description"       : "A collection of prototype functions for String object, some of them already adopted by new standards as ES6"
     ,   "main"              : "index.js"
     ,   "scripts"           :   {
